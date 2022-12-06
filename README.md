@@ -6,7 +6,7 @@
          <th>
          <a href="https://github.com/Rayologist?tab=repositories">
            <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=rayologist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api?username=rayologist&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy"
                 alt="Bo wei's github stats" />
          </a>
          </th>
