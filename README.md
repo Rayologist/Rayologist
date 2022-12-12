@@ -166,6 +166,22 @@
    </thead>
 </table>
 
+
+
+### Cloud:
+
+<table>
+   <thead>
+      <tr valign="top">
+         <th valign="center">
+            <span><strong>AWS</strong></span><br />
+            <img width="40" height="40"  
+                 src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+            <br/>
+      </tr>
+   </thead>
+</table>
+
 ### Containerization
 
 <table>
