@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Tech Stack: 
 
-#### Languages:
+### Languages:
 
 <table>
    <thead>
@@ -74,7 +74,7 @@
    </thead>
 </table>
 
-#### Frontend: 
+### Frontend: 
 
 <table>
    <thead>
@@ -94,7 +94,7 @@
    </thead>
 </table>
 
-#### Backend:
+### Backend:
 
 <table>
    <thead>
