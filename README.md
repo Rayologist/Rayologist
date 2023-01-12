@@ -53,7 +53,7 @@
             <br/>
          </th>
          <th valign="center">
-            <span><strong>R</strong></span><br />
+            <span><strong>&nbsp;&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;</strong></span><br />
             <img width="40" height="40"
                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
             <br/>
