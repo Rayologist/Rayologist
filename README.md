@@ -1,33 +1,9 @@
-# Hi there 🙌 !
-
-<!-- <table>
-   <thead>
-      <tr>
-<!--          <th>
-         <a href="https://github.com/Rayologist?tab=repositories">
-           <img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=rayologist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-                alt="Bo wei's github stats" />
-         </a>
-         </th> -->
-         <th>
-            <a href="https://github.com/Rayologist?tab=repositories">
-              <img align="center" 
-                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayologist&layout=compact&theme=buefy&hide_border=true" />
-            </a>
-            <br/>
-         </th>
-      </tr>
-   </thead>
-</table>
- -->
+### Hi there 🙌 !
 
 
 
 
-## About Me
-
-### 👨‍💻 Tech Stack: 
+## 👨‍💻 Tech Stack: 
 
 ### Languages:
 
