@@ -1,6 +1,6 @@
 # Hi there 🙌 !
 
-<table>
+<!-- <table>
    <thead>
       <tr>
 <!--          <th>
@@ -20,7 +20,7 @@
       </tr>
    </thead>
 </table>
-
+ -->
 
 
 
