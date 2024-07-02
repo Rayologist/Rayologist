@@ -111,7 +111,7 @@
       </th>
       <th valign="center">
         <span><strong>gRPC</strong></span><br />
-        <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
+        <img width="40" height="40" src="https://grpc.io/img/logos/grpc-icon-color.png" />
         <br />
       </th>
     </tr>
